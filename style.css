@@ -254,6 +254,9 @@ margin-top: 10px;
     header{
         margin: 0 40px;
     }
+    nav h1{
+        font-size: 15px;
+    }
     
   
 }
