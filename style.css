@@ -143,6 +143,11 @@ padding: 10px 0px;
     padding-bottom: 20px;
     font-size: 40px;
 }
+.left-feature img{
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
 .right-feature p{
     padding-bottom: 20px;
     opacity: 70%;
@@ -205,8 +210,17 @@ margin-top: 10px;
  
     .left-feature img{
         width: 100%;
+        border-radius: 10px;
     }
-   
+   .right-feature{
+       width: 100%;
+   }
+   .right-feature h1{
+       font-size: 30px;
+   }
+   .left-feature img{
+       width: 300px;
+   }
     .navigation{
         display: none;
         
